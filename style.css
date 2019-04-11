@@ -1,3 +1,7 @@
+body {
+    background-image: url("images/pixel_weave.png");
+}
+
 .jumbotron {
     background-color: rgb(194, 67, 8);
     text-align: center;
